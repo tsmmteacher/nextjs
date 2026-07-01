@@ -86,10 +86,10 @@ export default function Navbar() {
 
             <li>
               <Link
-                href="/company"
+                href="/products"
                 className="block py-2 text-gray-700 hover:text-purple-700 lg:p-0"
               >
-                Company
+                Nos produits
               </Link>
             </li>
 
